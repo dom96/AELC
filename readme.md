@@ -1,8 +1,7 @@
 AELC
 ====
 AEL Interpreter in Nimrod
-spec_
-.. _spec: http://dom96.blogspot.com/2010/04/ael-my-awesome-esoteric-language.html
+[spec][http://dom96.blogspot.com/2010/04/ael-my-awesome-esoteric-language.html "spec"]
 
 
 
